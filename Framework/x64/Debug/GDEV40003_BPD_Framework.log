@@ -1,0 +1,59 @@
+﻿  Boss_Enemy.cpp
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Game_Object.h(27,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Boss_Enemy.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Game_Object.h(27,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Boss_Enemy.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Boss_Enemy.h(23,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Boss_Enemy.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Boss_Enemy.cpp(109,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Boss_Enemy.cpp(174,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Boss_Enemy.cpp(192,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Boss_Enemy.cpp(246,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Boss_Enemy.cpp(246,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Melee_Enemy.cpp
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Game_Object.h(27,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Melee_Enemy.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Game_Object.h(27,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Melee_Enemy.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Melee_Enemy.h(24,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Melee_Enemy.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Melee_Enemy.cpp(103,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Melee_Enemy.cpp(168,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Melee_Enemy.cpp(215,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Melee_Enemy.cpp(215,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ranged_Enemy.cpp
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Game_Object.h(27,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Ranged_Enemy.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Game_Object.h(27,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Ranged_Enemy.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Ranged_Enemy.h(24,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ranged_Enemy.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Ranged_Enemy.cpp(91,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Ranged_Enemy.cpp(156,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Ranged_Enemy.cpp(207,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Ranged_Enemy.cpp(207,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  robotGuard.cpp
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Game_Object.h(27,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'robotGuard.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\Game_Object.h(27,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'robotGuard.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\robotGuard.h(22,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'robotGuard.cpp')
+  
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\robotGuard.cpp(95,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\robotGuard.cpp(161,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\robotGuard.cpp(211,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\GDEV40003_BPD_Framework\robotGuard.cpp(211,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  GDEV40003_BPD_Framework.vcxproj -> C:\Users\james\Documents\Documents\University work\Year 1\Bespoke Platform Development\Artefact\x64\Debug\GDEV40003_BPD_Framework.exe
